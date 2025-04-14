@@ -35,7 +35,7 @@
 | `schema.sql`         | 全部建表语句                          |
 | `seed_data.sql`      | 示例数据插入                          |
 | `queries/*.sql`      | 常用 SQL 查询操作                     |
-| `assets/dog_park_theme.png` | 项目主题形象图                         |
+| `assets/doggypark.png` | 项目主题形象图                         |
 
 ---
 ## 🧪 示例查询
