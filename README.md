@@ -38,8 +38,6 @@
 | `assets/dog_park_theme.png` | 项目主题形象图                         |
 
 ---
-
-
 ## 🧪 示例查询
 
 ```sql
@@ -51,8 +49,6 @@ JOIN activities a ON da.activity_id = a.activity_id
 WHERE a.name = '夏日狂欢';
 
 
-
----
 
 ## ❤️ 欢迎使用与贡献！
 
