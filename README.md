@@ -40,8 +40,7 @@
 ---
 ## 🧪 示例查询
 
-```sql
--- 查询所有参加了“夏日狂欢”活动的狗狗名称
+```sql 查询所有参加了“夏日狂欢”活动的狗狗名称
 SELECT d.name
 FROM dogs d
 JOIN dog_activities da ON d.dog_id = da.dog_id
@@ -54,7 +53,6 @@ WHERE a.name = '夏日狂欢';
 
 如果你正在学习 SQL 或数据建模，希望这个项目能帮助你入门和练习！欢迎 Star ⭐ 或 Fork 🍴 本项目！
 
----
 
 ## 📜 版权信息
 
