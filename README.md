@@ -49,11 +49,14 @@ JOIN dog_activities da ON d.dog_id = da.dog_id
 JOIN activities a ON da.activity_id = a.activity_id
 WHERE a.name = '夏日狂欢';
 
+---
 
-##❤️ 欢迎使用与贡献！
+## ❤️ 欢迎使用与贡献！
 如果你正在学习 SQL 或数据建模，希望这个项目能帮助你入门和练习！欢迎 Star ⭐ 或 Fork 🍴 本项目！
 
-##📜 版权信息
+---
+
+## 📜 版权信息
 © 2025 Pengyi Peng
 本项目由 Pengyi 于 2025-04-14 创建。
 仅用于学习与教学用途，禁止用于商业用途。如需转载或引用，请注明作者与出处。
