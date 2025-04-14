@@ -45,7 +45,7 @@ SELECT d.name
 FROM dogs d
 JOIN dog_activities da ON d.dog_id = da.dog_id
 JOIN activities a ON da.activity_id = a.activity_id
-WHERE a.name = '夏日狂欢';```
+WHERE a.name = '夏日狂欢';
 
 
 ## ❤️ 欢迎使用与贡献！
