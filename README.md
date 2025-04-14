@@ -48,3 +48,7 @@ FROM dogs d
 JOIN dog_activities da ON d.dog_id = da.dog_id
 JOIN activities a ON da.activity_id = a.activity_id
 WHERE a.name = '夏日狂欢';
+
+
+❤️ 欢迎使用与贡献！
+如果你正在学习 SQL 或数据建模，希望这个项目能帮助你入门和练习！欢迎 Star ⭐ 或 Fork 🍴 本项目！
