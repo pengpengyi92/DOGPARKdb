@@ -2,19 +2,7 @@
 
 该文件用于记录整个项目的目录结构与各模块的用途，方便协作、迁移、维护与学习使用。
 
----INITIAL DESIGNED VERSION
-DogParkDB/
-├── README.md                  # 项目说明文档
-├── schema.sql                 # 数据库建表语句
-├── seed_data.sql              # 示例数据插入脚本
-├── queries/                   # 查询 SQL 示例合集
-│   ├── select_queries.sql     # SELECT 查询示例
-│   ├── join_queries.sql       # 多表联查示例
-│   └── advanced_queries.sql   # 嵌套查询、聚合等高级用法
-├── assets/                    # 项目配图等资源
-│   └── dog_park_theme.png     # 小狗乐园主题形象图
-└── docs/                      # 项目文档
-    └── ARCHITECTURE.md        # 项目结构设计文档
+
 
 
 ## 🔖 顶层结构说明
